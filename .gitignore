@@ -1,0 +1,61 @@
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b
+/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+/.idea/sonarlint/issuestore/5/a/5a43806c47391f567b64e81e200f0408380369a7
+/.idea/sonarlint/issuestore/5/d/5d626cdc65acb966cf6767e2e21c4bcba413685f
+/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+/.idea/sonarlint/issuestore/c/c/ccbc6e22241d0c8d3488643e11b8c5c9d9c3fd70
+/.idea/sonarlint/issuestore/index.pb
+/.idea/sonarlint/securityhotspotstore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b
+/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+/.idea/sonarlint/securityhotspotstore/5/a/5a43806c47391f567b64e81e200f0408380369a7
+/.idea/sonarlint/securityhotspotstore/5/d/5d626cdc65acb966cf6767e2e21c4bcba413685f
+/.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+/.idea/sonarlint/securityhotspotstore/c/c/ccbc6e22241d0c8d3488643e11b8c5c9d9c3fd70
+/.idea/sonarlint/securityhotspotstore/index.pb
+/.idea/.gitignore
+/.idea/checkstyle-idea.xml
+/.idea/encodings.xml
+/.idea/google-java-format.xml
+/.idea/jpa-buddy.xml
+/.idea/misc.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+
+### MVN Wrapper ###
+.mvn/wrapper
